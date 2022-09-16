@@ -24,8 +24,8 @@ In this challenge I created a car list with dynamic routing. The list should be 
 
 ### Links
 
-- Solution URL: [https://github.com/jenniferhubermayer/xxx](https://github.com/jenniferhubermayer/xxx)
-- Live Site URL: [https://jenniferhubermayer.github.io/xxx](https://jenniferhubermayer.github.io/xxx)
+- Solution URL: [https://github.com/jenniferhubermayer/super-car-list-react-dynamic-route/](https://github.com/jenniferhubermayer/super-car-list-react-dynamic-route/)
+- Live Site URL: [https://frabjous-mousse-115cd5.netlify.app/](https://frabjous-mousse-115cd5.netlify.app/)
 
 ## My process
 
